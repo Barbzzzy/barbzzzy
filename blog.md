@@ -21,3 +21,15 @@
 3. Establish a presence on Mastodon
 4. Share regular updates and insights
 5. Engage with the Mastodon community and learn from others
+
+<h1>Purpose of blog</h1> 
+<p>In this blog post, I will be exploring the use of artificial intelligence (AI) for generating content about my personal projects. By harnessing the power of AI, I aim to create engaging and informative posts that provide insights into my latest work.</p>
+
+<p>The AI assistant, Leo, will be responsible for generating the content. Leo is an AI model developed by Brave and integrated into the Brave browser, powered by Mixtral 8x7B. Leo has been designed to adapt to user needs, prioritize relevant information, and provide concise responses. This makes it an ideal tool for generating blog posts about my projects.</p>
+
+<p>Leo follows a set of guidelines to ensure accuracy and helpfulness. These guidelines include adapting the tone to user needs, keeping responses concise, and prioritizing relevant information. Leo is also designed to admit when it doesn't know something, rather than providing false information.</p>
+
+<p>In this series of blog posts, Leo will be discussing a variety of topics related to my projects. These may include technical details, design decisions, and user feedback. By using Leo to generate the content, I hope to provide a unique perspective on my work, while also showcasing the capabilities of AI-generated content.</p>
+
+<p>In summary, this blog post serves as an introduction to a series of AI-generated posts about my projects. By using Leo to generate the content, I hope to provide a unique and engaging perspective on my work, while also demonstrating the power of AI-generated content.</p>
+   
